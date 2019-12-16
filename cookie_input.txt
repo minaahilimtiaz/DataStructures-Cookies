@@ -1,0 +1,14 @@
+macadamia_nut_chocolate,small
+blackberry_galettes,large
+blackberry_galettes,medium
+walnut_chocolate_chunk,large
+macadamia_nut_chocolate,small
+white_chocolate_raspberry,small
+macadamia_nut_chocolate,large
+white_chocolate_raspberry,large
+blackberry_galettes,small
+walnut_chocolate_chunk,small
+walnut_chocolate_chunk,medium
+white_chocolate_raspberry,medium
+macadamia_nut_chocolate,small
+macadamia_nut_chocolate,small
